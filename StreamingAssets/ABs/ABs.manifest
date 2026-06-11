@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 144034406
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: game_assets
+      Dependencies: {}

@@ -1,9 +1,9 @@
 const cacheName = "com.pollypopgams.stacktank-Stack Tank-1.0.26";
 const contentToCache = [
-    "Build/GameData.loader.js",
-    "Build/GameData.framework.js.unityweb",
-    "Build/GameData.data.unityweb",
-    "Build/GameData.wasm.unityweb",
+    "Build/stack-tank-webgl.loader.js",
+    "Build/stack-tank-webgl.framework.js.unityweb",
+    "Build/stack-tank-webgl.data.unityweb",
+    "Build/stack-tank-webgl.wasm.unityweb",
     "TemplateData/style.css"
 
 ];

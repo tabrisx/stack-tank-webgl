@@ -1,4 +1,4 @@
-const cacheName = "com.pollypopgams.stacktank-Stack Tank-1.0.26";
+const cacheName = "com.pollypopgams.stacktankweb-Stack Tank-1.0.26";
 const contentToCache = [
     "Build/stack-tank-webgl.loader.js",
     "Build/stack-tank-webgl.framework.js.unityweb",
